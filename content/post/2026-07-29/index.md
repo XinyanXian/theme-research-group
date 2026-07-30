@@ -1,10 +1,9 @@
 ---
-
 title: "Mingshu joined Rui to discuss spatially aware AI on The Science Show with Dr Dada"
 date: 2026-07-29
 image:
-focal_point: top
-preview_only: true
+  preview_only: true   # 关键：封面图仅用于列表，不在正文顶部自动显示
+  focal_point: top
 summary: "Mingshu Wang joined doctoral researcher Rui Deng on Jambo! Radio Scotland to discuss TabPFN-GSA, why geography matters for foundation models, and how spatial context can give AI a practical mathematical sense of place."
 
 ---
