@@ -31,6 +31,6 @@ Mingshu is grateful to Dr Dada and the Jambo! Radio Scotland team for the invita
 
 The full episode, [*"Can AI Understand Where It Is?"*](https://youtu.be/aczMIwbhFVU), is available on YouTube.
 
-{{< figure src="tabpfn-gsa-science-show-poster.jpg" caption="Episode poster for 'Can AI Understand Where It Is?' on The Science Show with Dr Dada." >}}
+{{< figure src="featured1.jpg" caption="Episode poster for 'Can AI Understand Where It Is?' on The Science Show with Dr Dada." >}}
 
-{{< figure src="tabpfn-gsa-science-show-studio.jpg" caption="Mingshu Wang, Rui Deng, and Dr Adetunmise Dada in the Jambo! Radio Scotland studio following the live interview." >}}
+{{< figure src="featured2.jpg" caption="Mingshu Wang, Rui Deng, and Dr Adetunmise Dada in the Jambo! Radio Scotland studio following the live interview." >}}
