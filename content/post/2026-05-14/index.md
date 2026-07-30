@@ -16,5 +16,5 @@ My fellowship project, __“GeoAI-enabled workflows for decision-ready infrastru
 This fellowship builds on my wider research at the intersection of __GeoAI, spatial data science and infrastructure systems__, with a focus on scalable and interpretable machine learning for geospatial data. I look forward to working with the DAFNI team and wider community to support more open, reproducible and evidence-based infrastructure resilience research.
 Read more: [University of Glasgow news story](https://www.gla.ac.uk/news/headline_1265636_en.html) | [DAFNI 2026 Fellows cohort announcement](https://www.dafni.ac.uk/news-and-events/news/dafni-announces-2026-fellows-cohort/)
 
-{{< figure src="featured2.jpg">}}
+{{< figure src="featured0.jpg">}}
 {{< figure src="featured1.jpg">}}
