@@ -8,6 +8,8 @@ summary: "Mingshu Wang joined doctoral researcher Rui Deng on Jambo! Radio Scotl
 
 ---
 
+{{< figure src="featured1.jpg" caption="Episode poster for 'Can AI Understand Where It Is?' on The Science Show with Dr Dada." >}}
+
 On 29 July 2026, Dr Mingshu Wang joined doctoral researcher Rui Deng for a live interview on [*The Science Show with Dr Dada*](https://youtu.be/aczMIwbhFVU) at Jambo! Radio Scotland. The episode, titled *"Can AI Understand Where It Is?"*, explored their recent research on spatially aware artificial intelligence.
 
 Artificial intelligence can generate text, write code, and identify patterns across very large datasets. However, it does not necessarily recognise why two neighbouring places may behave differently. This question provided the starting point for the discussion of TabPFN-GSA, a spatially explicit approach designed to give a tabular foundation model a practical mathematical "sense of place".
@@ -30,6 +32,5 @@ Mingshu is grateful to Dr Dada and the Jambo! Radio Scotland team for the invita
 
 The full episode, [*"Can AI Understand Where It Is?"*](https://youtu.be/aczMIwbhFVU), is available on YouTube.
 
-{{< figure src="featured1.jpg" caption="Episode poster for 'Can AI Understand Where It Is?' on The Science Show with Dr Dada." >}}
 
 {{< figure src="featured2.jpg" caption="Mingshu Wang, Rui Deng, and Dr Adetunmise Dada in the Jambo! Radio Scotland studio following the live interview." >}}
